@@ -1,2 +1,4 @@
+I added something
+
 Here is my second file.
 It isa great file.
